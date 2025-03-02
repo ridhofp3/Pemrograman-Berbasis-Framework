@@ -67,4 +67,5 @@ pengguna dari API https://jsonplaceholder.typicode.com/users.
 3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) 
 dan tampilkan data tersebut di halaman front-end. 
 ![alt text](img/T-3.png)
+![alt text](img/T-5.png)
 ![alt text](img/T-4.png)
